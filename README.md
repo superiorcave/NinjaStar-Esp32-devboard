@@ -3,6 +3,8 @@ A custom created Esp32 devboard in the shape of a ninja star. This board also co
 Using an Esp32 Wroom, I was able to create a fun shape for the classic devboard and even insert my own custom images. Fitted with custom LEDS and buttons, 
 this is great mircocontroller for any project.
 
+Download the production folder and use the zip file to find the Gerber files for production.
+
 Click the Link Below to view my journal:
 https://blueprint.hackclub.com/projects/2972
 
